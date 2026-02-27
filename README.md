@@ -1,4 +1,4 @@
-# 🎬 Bollywood Movie Review Sentiment Analysis
+# 🎬 Bollywood Movie Review Sentiment Analysis(WEB SCRAPING)
 
 ## 📌 Project Overview
 
